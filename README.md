@@ -6,11 +6,17 @@ I'm a developer and founder building software that turns complex information and
 
 Currently building **[Madhav AI](https://www.madhav-ai.com/)** — a legal technology platform designed around how modern legal professionals actually work.
 
-<br>
-
-[![Madhav AI](https://img.shields.io/badge/Madhav_AI-111111?style=flat-square&logo=googlechrome&logoColor=white)](https://www.madhav-ai.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-iconic/)
-[![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/aryan-iconic)
+<p>
+  <a href="https://www.madhav-ai.com/">
+    <img src="https://img.shields.io/badge/Madhav%20AI-111111?style=flat-square&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/aryan-iconic/">
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/aryan-iconic">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -30,28 +36,19 @@ I'm building systems that help legal professionals work with large amounts of in
 
 ---
 
-## 🧠 What I'm Interested In
+## 🧠 Areas of Interest
 
-```text
-Artificial Intelligence
-├── LLM applications
-├── AI agents & orchestration
-├── Retrieval & semantic search
-├── Long-term AI memory
-└── Context-aware systems
+**Artificial Intelligence**
 
-Software Engineering
-├── Full-stack applications
-├── Backend architecture
-├── APIs & distributed systems
-├── Developer tooling
-└── Product engineering
+LLM applications · AI agents · orchestration · RAG · semantic retrieval · long-term AI memory · context-aware systems
 
-Building
-├── AI-native products
-├── Useful developer tools
-└── Systems that solve real problems
-```
+**Software Engineering**
+
+Full-stack applications · backend architecture · APIs · distributed systems · developer tooling · product engineering
+
+**Building**
+
+AI-native products · developer tools · intelligent workflows · systems that solve real problems
 
 ---
 
@@ -59,31 +56,39 @@ Building
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=3776AB)
-![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![SQL](https://img.shields.io/badge/SQL-111111?style=flat-square&logo=postgresql&logoColor=4169E1)
+<p>
+  <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/SQL-111111?style=flat-square&logo=postgresql&logoColor=4169E1" />
+</p>
 
 ### Frameworks & Backend
 
-![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=next.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=flat-square&logo=fastapi&logoColor=009688)
-![Django](https://img.shields.io/badge/Django-111111?style=flat-square&logo=django&logoColor=44B78B)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=4169E1)
+<p>
+  <img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-111111?style=flat-square&logo=fastapi&logoColor=009688" />
+  <img src="https://img.shields.io/badge/Django-111111?style=flat-square&logo=django&logoColor=44B78B" />
+  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=4169E1" />
+</p>
 
-### AI / Data
+### AI & Data
 
-![OpenAI](https://img.shields.io/badge/LLMs-111111?style=flat-square&logo=openai&logoColor=white)
-![Python](https://img.shields.io/badge/RAG-111111?style=flat-square&logo=databricks&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-111111?style=flat-square&logo=ollama&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/LLMs-111111?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-111111?style=flat-square&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-111111?style=flat-square&logo=ollama&logoColor=white" />
+</p>
 
-### Tools
+### Tools & Infrastructure
 
-![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=2496ED)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-111111?style=flat-square&logo=cloudflare&logoColor=F38020)
+<p>
+  <img src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/Cloudflare-111111?style=flat-square&logo=cloudflare&logoColor=F38020" />
+</p>
 
 ---
 
@@ -91,7 +96,7 @@ Building
 
 ### 🧠 MemoryOS
 
-A persistent AI memory layer designed to help applications remember users, conversations, preferences, decisions, and project context across sessions.
+A persistent AI memory layer designed to help applications retain context across conversations, preferences, decisions, and projects.
 
 **Python · AI · Memory Systems**
 
@@ -101,7 +106,7 @@ A persistent AI memory layer designed to help applications remember users, conve
 
 ### 🔍 OrcReader
 
-A Python-based OCR system for extracting and processing text from images and scanned documents.
+An OCR-focused project for extracting and processing text from images and scanned documents.
 
 **Python · OCR · Computer Vision**
 
@@ -111,7 +116,7 @@ A Python-based OCR system for extracting and processing text from images and sca
 
 ### 🗂️ TabSpace
 
-A customizable browser new-tab experience with widgets, shortcuts, and productivity-focused customization.
+A customizable browser new-tab experience built around widgets, shortcuts, and productivity.
 
 **JavaScript · Browser APIs · Frontend**
 
@@ -121,56 +126,47 @@ A customizable browser new-tab experience with widgets, shortcuts, and productiv
 
 ### 🔊 Speech & Language Tools
 
-A collection of experiments around speech recognition and synthesis.
+Experiments around speech recognition and speech synthesis.
 
-* [Speech_to_text](https://github.com/aryan-iconic/Speech_to_text)
-* [Text_to_speech](https://github.com/aryan-iconic/Text_to_speech)
+* [Speech to Text](https://github.com/aryan-iconic/Speech_to_text)
+* [Text to Speech](https://github.com/aryan-iconic/Text_to_speech)
 
 **Python · Speech Recognition · TTS**
 
 ---
 
-## 📌 A Bit More About Me
+## 📌 A Little More About Me
 
 * 🧩 I enjoy building systems from the ground up.
-* 🤖 Currently focused heavily on AI-native software.
-* 🔬 Interested in the intersection of LLMs, retrieval, memory, and product engineering.
+* 🤖 Currently focused on AI-native software and intelligent workflows.
+* 🔬 Interested in LLMs, retrieval, memory, agents, and context engineering.
 * 🏗️ I prefer building real products over isolated demos.
 * 🌱 Exploring open source and looking for interesting problems to contribute to.
-* 💡 Always experimenting with new ideas.
+* 💡 Always experimenting, shipping, and learning.
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Activity
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aryan-iconic&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-iconic&layout=compact&hide_border=true&theme=transparent" height="170" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=aryan-iconic&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-iconic&layout=compact&hide_border=true&theme=transparent" height="170">
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-iconic&hide_border=true&theme=transparent" />
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=aryan-iconic&hide_border=true&theme=transparent" />
+</p>
 
 ---
 
 ## 🤝 Let's Connect
 
-Building something interesting in AI, software, or legal technology?
+Building something interesting in **AI, software, or legal technology?**
 
 **[Madhav AI](https://www.madhav-ai.com/)** · **[LinkedIn](https://www.linkedin.com/in/aryan-iconic/)** · **[GitHub](https://github.com/aryan-iconic)**
 
 <br>
 
-<div align="center">
-
-### *Build useful things. Make them intelligent.*
-
-</div>
+<p align="center">
+  <b>Build useful things. Make them intelligent.</b>
+</p>

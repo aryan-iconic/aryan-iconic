@@ -148,13 +148,10 @@ Experiments around speech recognition and speech synthesis.
 
 ## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryan-iconic&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-iconic&layout=compact&hide_border=true&theme=transparent" height="170" />
-</p>
+I build, experiment, and contribute continuously across AI, software engineering, and product development.
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=aryan-iconic&hide_border=true&theme=transparent" />
+  <i>More code. More experiments. More things shipped.</i>
 </p>
 
 ---

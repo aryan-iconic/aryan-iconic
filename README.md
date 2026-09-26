@@ -1,169 +1,142 @@
-# Hi, I'm Aryan 👋
+<div align="center">
 
-### Building intelligent software at the intersection of **AI, product, and real-world workflows.**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F0F,100:1A1A1A&height=180&section=header&text=ARYAN%20GUPTA&fontSize=48&fontColor=E8E8E8&fontAlignY=45&desc=Founder%20%E2%80%94%20Madhav%20AI%20%7C%20Building%20CaseSpace&descAlignY=62&descSize=16&descColor=9A9A9A&animation=fadeIn" width="100%"/>
 
-I'm a developer and founder building software that turns complex information and workflows into simpler, more intelligent systems.
+<br/>
 
-Currently building **[Madhav AI](https://www.madhav-ai.com/)** — a legal technology platform designed around how modern legal professionals actually work.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=1200&color=D0D0D0&center=true&vCenter=true&width=680&lines=Case+No.+2026%2FAI-LEGAL%2F001;PLAINTIFF%3A+Complex+Legal+Workflows;DEFENDANT%3A+Aryan+Gupta+%2B+CaseSpace;RULING%3A+Less+Searching.+More+Understanding." alt="Typing SVG" />
 
-<p>
-  <a href="https://www.madhav-ai.com/">
-    <img src="https://img.shields.io/badge/Madhav%20AI-111111?style=flat-square&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/aryan-iconic/">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/aryan-iconic">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white" />
-  </a>
-</p>
+</div>
 
----
+<br/>
 
-## 🚀 Currently Building
+<table align="center">
+<tr>
+<td align="center" width="100%">
 
-### Madhav AI
+**IN THE MATTER OF: ARYAN GUPTA**
+*B.Tech ECE, BIT Mesra ('27) · Founder, Madhav AI Jurisprudence Pvt. Ltd. · Ranchi, India*
 
-**AI-native legal technology, built for how legal professionals actually work.**
-
-I'm building systems that help legal professionals work with large amounts of information — from case documents and evidence to research, reasoning, and structured workflows.
-
-**CaseSpace** is one of the products within Madhav AI, designed around the idea that legal work shouldn't be scattered across documents, tabs, notes, and disconnected tools.
-
-> **Less searching. More understanding.**
-
-[Explore Madhav AI →](https://www.madhav-ai.com/)
-
----
-
-## 🧠 Areas of Interest
-
-**Artificial Intelligence**
-
-LLM applications · AI agents · orchestration · RAG · semantic retrieval · long-term AI memory · context-aware systems
-
-**Software Engineering**
-
-Full-stack applications · backend architecture · APIs · distributed systems · developer tooling · product engineering
-
-**Building**
-
-AI-native products · developer tools · intelligent workflows · systems that solve real problems
-
----
-
-## 🛠️ Technologies
-
-### Languages
-
-<p>
-  <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=3178C6" />
-  <img src="https://img.shields.io/badge/SQL-111111?style=flat-square&logo=postgresql&logoColor=4169E1" />
-</p>
-
-### Frameworks & Backend
-
-<p>
-  <img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-111111?style=flat-square&logo=fastapi&logoColor=009688" />
-  <img src="https://img.shields.io/badge/Django-111111?style=flat-square&logo=django&logoColor=44B78B" />
-  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=4169E1" />
-</p>
-
-### AI & Data
-
-<p>
-  <img src="https://img.shields.io/badge/LLMs-111111?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-111111?style=flat-square&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ollama-111111?style=flat-square&logo=ollama&logoColor=white" />
-</p>
-
-### Tools & Infrastructure
-
-<p>
-  <img src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=F05032" />
-  <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=2496ED" />
-  <img src="https://img.shields.io/badge/Cloudflare-111111?style=flat-square&logo=cloudflare&logoColor=F38020" />
-</p>
-
----
-
-## ⭐ Selected Projects
-
-### 🧠 MemoryOS
-
-A persistent AI memory layer designed to help applications retain context across conversations, preferences, decisions, and projects.
-
-**Python · AI · Memory Systems**
-
-[View repository →](https://github.com/aryan-iconic/MemoryOS)
-
----
-
-### 🔍 OrcReader
-
-An OCR-focused project for extracting and processing text from images and scanned documents.
-
-**Python · OCR · Computer Vision**
-
-[View repository →](https://github.com/aryan-iconic/OrcReader-model)
-
----
-
-### 🗂️ TabSpace
-
-A customizable browser new-tab experience built around widgets, shortcuts, and productivity.
-
-**JavaScript · Browser APIs · Frontend**
-
-[View repository →](https://github.com/aryan-iconic/TabSpace)
-
----
-
-### 🔊 Speech & Language Tools
-
-Experiments around speech recognition and speech synthesis.
-
-* [Speech to Text](https://github.com/aryan-iconic/Speech_to_text)
-* [Text to Speech](https://github.com/aryan-iconic/Text_to_speech)
-
-**Python · Speech Recognition · TTS**
-
----
-
-## 📌 A Little More About Me
-
-* 🧩 I enjoy building systems from the ground up.
-* 🤖 Currently focused on AI-native software and intelligent workflows.
-* 🔬 Interested in LLMs, retrieval, memory, agents, and context engineering.
-* 🏗️ I prefer building real products over isolated demos.
-* 🌱 Exploring open source and looking for interesting problems to contribute to.
-* 💡 Always experimenting, shipping, and learning.
-
----
-
-## 📊 GitHub Activity
-
-I build, experiment, and contribute continuously across AI, software engineering, and product development.
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <i>More code. More experiments. More things shipped.</i>
+  <a href="https://www.madhav-ai.com/"><img src="https://img.shields.io/badge/Madhav%20AI-0F0F0F?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/aryan-iconic/"><img src="https://img.shields.io/badge/LinkedIn-0F0F0F?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+  <a href="https://github.com/aryan-iconic"><img src="https://img.shields.io/badge/GitHub-0F0F0F?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🤝 Let's Connect
+### 📁 EXHIBIT A — Statement of the Case
 
-Building something interesting in **AI, software, or legal technology?**
+I build systems that turn messy, high-stakes information into something a professional can actually *reason* with. My daily docket splits between two matters:
 
-**[Madhav AI](https://www.madhav-ai.com/)** · **[LinkedIn](https://www.linkedin.com/in/aryan-iconic/)** · **[GitHub](https://github.com/aryan-iconic)**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<br>
+**⚖️ Madhav AI — CaseSpace**
+The flagship product. An AI-native legal workspace for Indian legal professionals — case documents, evidence, research, and drafting, unified instead of scattered across tabs. Currently building the **Universal Drafting Studio**: a schema-driven engine spanning 60+ Indian legal document types across criminal, civil, corporate, IPR, and constitutional practice, with a reusable entity model (PARTY, COURT, FIR, CONTRACT...) instead of siloed per-document fields.
 
-<p align="center">
-  <b>Build useful things. Make them intelligent.</b>
-</p>
+`FastAPI` `PostgreSQL + pgvector` `RAG` `Next.js`
+
+</td>
+<td width="50%" valign="top">
+
+**🧠 MemoryOS**
+My flagship open-source project — a local-first, model-agnostic, three-tier AI memory library, published on PyPI as `memoryos-local`. Built so any LLM application can retain context, preferences, and decisions without shipping user data to someone else's server.
+
+`Python` `Local-First` `PyPI`
+
+<a href="https://github.com/aryan-iconic/MemoryOS"><img src="https://img.shields.io/badge/View_Repository-1A1A1A?style=flat-square" /></a>
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📁 EXHIBIT B — Evidence (Docket Activity)
+
+<div align="center">
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=aryan-iconic&show_icons=true&theme=dark&hide_border=true&bg_color=0F0F0F&title_color=E8E8E8&icon_color=9A9A9A&text_color=B0B0B0&ring_color=9A9A9A"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-iconic&layout=compact&theme=dark&hide_border=true&bg_color=0F0F0F&title_color=E8E8E8&text_color=B0B0B0"/>
+</div>
+
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=aryan-iconic&theme=dark&hide_border=true&background=0F0F0F&stroke=1A1A1A&ring=9A9A9A&fire=E8E8E8&currStreakLabel=E8E8E8" />
+</div>
+
+<div align="center">
+
+<!-- snake animation — see setup note below -->
+<img src="https://raw.githubusercontent.com/aryan-iconic/aryan-iconic/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+</div>
+
+<details>
+<summary><b>⚙️ One-time setup for the snake graph above (click to expand)</b></summary>
+
+<br/>
+
+Add this file at <code>.github/workflows/snake.yml</code> in your <code>aryan-iconic/aryan-iconic</code> profile repo — GitHub Actions regenerates the animation daily:
+
+```yaml
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: aryan-iconic
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+It runs itself after that — nothing to maintain.
+
+</details>
+
+---
+
+### 📁 EXHIBIT C — Tools of the Trade
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=py,ts,js,react,nextjs,fastapi,django,postgres,docker,git,github,cloudflare&theme=dark" />
+</div>
+
+---
+
+### 📁 CLOSING ARGUMENT
+
+<table align="center">
+<tr><td align="center">
+
+I'd rather ship one real product than demo ten toy ones. Currently splitting my time between shipping <code>CaseSpace</code> for legal professionals in India and open-sourcing <code>MemoryOS</code> for everyone else. If you're working on AI agents, memory systems, or legal-tech — my inbox is open.
+
+</td></tr>
+</table>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A1A,100:0F0F0F&height=100&section=footer" width="100%"/>
+</div>

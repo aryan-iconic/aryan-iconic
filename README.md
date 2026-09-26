@@ -67,8 +67,7 @@ My flagship open-source project, built on the side — a local-first, model-agno
 ### 📁 EXHIBIT B — Evidence (Docket Activity)
 
 <div align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=aryan-iconic&show_icons=true&theme=dark&hide_border=true&bg_color=12172B&title_color=FFFFFF&icon_color=6C8CFF&text_color=A9BBFF&ring_color=3457F5"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-iconic&layout=compact&theme=dark&hide_border=true&bg_color=12172B&title_color=FFFFFF&text_color=A9BBFF"/>
+<img src="https://raw.githubusercontent.com/aryan-iconic/aryan-iconic/main/metrics.svg" width="100%" />
 </div>
 
 <div align="center">
@@ -83,11 +82,47 @@ My flagship open-source project, built on the side — a local-first, model-agno
 </div>
 
 <details>
-<summary><b>⚙️ One-time setup for the snake graph above (click to expand)</b></summary>
+<summary><b>⚙️ One-time setup for the metrics card above (click to expand)</b></summary>
 
 <br/>
 
-Add this file at <code>.github/workflows/snake.yml</code> in your <code>aryan-iconic/aryan-iconic</code> profile repo — GitHub Actions regenerates the animation daily:
+The old <code>github-readme-stats.vercel.app</code> cards are gone — that shared public instance is chronically rate-limited (it hits GitHub's own API quota because everyone uses the same demo URL), which is why they showed as broken images. This replaces both cards with one self-generating <b>metrics.svg</b> baked directly into your repo, so nothing depends on a stranger's server being up.
+
+Add this file at <code>.github/workflows/metrics.yml</code> in your <code>aryan-iconic/aryan-iconic</code> profile repo:
+
+```yaml
+name: Generate Metrics
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          theme: dark
+          base: header, activity, community, repositories
+          config_timezone: Asia/Kolkata
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_limit: 8
+```
+
+It commits <code>metrics.svg</code> straight to your <code>main</code> branch on a schedule — no separate output branch needed, and no shared rate limit to hit.
+
+<br/>
+
+One-time setup for the snake graph below it:
 
 ```yaml
 name: Generate Snake

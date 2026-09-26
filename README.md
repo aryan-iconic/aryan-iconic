@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F0F,100:1A1A1A&height=180&section=header&text=ARYAN%20GUPTA&fontSize=48&fontColor=E8E8E8&fontAlignY=45&desc=Founder%20%E2%80%94%20Madhav%20AI%20%7C%20Building%20CaseSpace&descAlignY=62&descSize=16&descColor=9A9A9A&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:12172B,50:1E3A8A,100:3457F5&height=180&section=header&text=ARYAN%20GUPTA&fontSize=48&fontColor=FFFFFF&fontAlignY=45&desc=Founder%20%E2%80%94%20Madhav.ai%20%7C%20Justice%20Reimagined&descAlignY=62&descSize=16&descColor=A9BBFF&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=1200&color=D0D0D0&center=true&vCenter=true&width=680&lines=Case+No.+2026%2FAI-LEGAL%2F001;PLAINTIFF%3A+Complex+Legal+Workflows;DEFENDANT%3A+Aryan+Gupta+%2B+CaseSpace;RULING%3A+Less+Searching.+More+Understanding." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=1200&color=6C8CFF&center=true&vCenter=true&width=680&lines=Case+No.+2026%2FAI-LEGAL%2F001;PLAINTIFF%3A+Fragmented+Legal+Workflows;DEFENDANT%3A+Aryan+Gupta+%2B+Madhav.ai;RULING%3A+Justice+Reimagined." alt="Typing SVG" />
 
 </div>
 
@@ -22,51 +22,57 @@
 </table>
 
 <p align="center">
-  <a href="https://www.madhav-ai.com/"><img src="https://img.shields.io/badge/Madhav%20AI-0F0F0F?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/aryan-iconic/"><img src="https://img.shields.io/badge/LinkedIn-0F0F0F?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
-  <a href="https://github.com/aryan-iconic"><img src="https://img.shields.io/badge/GitHub-0F0F0F?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.madhav-ai.com/"><img src="https://img.shields.io/badge/Madhav.ai-3457F5?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/aryan-iconic/"><img src="https://img.shields.io/badge/LinkedIn-3457F5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/aryan-iconic"><img src="https://img.shields.io/badge/GitHub-12172B?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Open_to_Remote_%26_OSS_Work-6C8CFF?style=flat-square&labelColor=12172B" />
 </p>
 
 ---
 
 ### 📁 EXHIBIT A — Statement of the Case
 
-I build systems that turn messy, high-stakes information into something a professional can actually *reason* with. My daily docket splits between two matters:
+I build systems that turn messy, high-stakes information into something a professional can actually *reason* with.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**⚖️ Madhav.ai — Justice Reimagined**
+An AI-native legal intelligence and workflow platform for Indian lawyers and law firms — not a chatbot wrapper, but an operating layer that takes a lawyer from raw legal information → understanding → analysis → research → drafting → execution. It's a full platform, not a single tool:
 
-**⚖️ Madhav AI — CaseSpace**
-The flagship product. An AI-native legal workspace for Indian legal professionals — case documents, evidence, research, and drafting, unified instead of scattered across tabs. Currently building the **Universal Drafting Studio**: a schema-driven engine spanning 60+ Indian legal document types across criminal, civil, corporate, IPR, and constitutional practice, with a reusable entity model (PARTY, COURT, FIR, CONTRACT...) instead of siloed per-document fields.
+| Module | What it does |
+|---|---|
+| 🔍 **Search Engine** | Purpose-built legal search across Indian judgments, cases, and authorities |
+| 📚 **Research Engine** | Deep legal research over a ~1.5 TB legal corpus using RAG + vector retrieval |
+| 🗂️ **CaseSpace** | Per-case workspace — structures evidence, facts, timelines, contradictions, and gaps from uploaded case documents |
+| ✍️ **Drafting Engine** | AI-assisted drafting (bail applications, petitions, etc.), aware of the IPC → BNS transition, verification-first |
+| 📋 **Universal Drafting Studio** | Structured, schema-driven drafting across 60+ Indian legal document types — no generic chatbot flow |
+| 🤝 **Collaboration** | Teams, matters, role-based access, ethical walls, and auditability for firms |
 
-`FastAPI` `PostgreSQL + pgvector` `RAG` `Next.js`
+Built on `FastAPI` · `PostgreSQL + pgvector` · `HNSW` · multi-stage LLM pipelines (small models for triage, larger models with validation for deep reasoning) — because a hallucinated legal authority isn't a minor bug. Currently pre-launch, heading toward a private beta with a focused group of litigation and criminal-law practitioners.
 
-</td>
-<td width="50%" valign="top">
+<a href="https://www.madhav-ai.com/"><img src="https://img.shields.io/badge/Visit_Madhav.ai-3457F5?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+
+---
 
 **🧠 MemoryOS**
-My flagship open-source project — a local-first, model-agnostic, three-tier AI memory library, published on PyPI as `memoryos-local`. Built so any LLM application can retain context, preferences, and decisions without shipping user data to someone else's server.
+My flagship open-source project, built on the side — a local-first, model-agnostic, three-tier AI memory library, published on PyPI as `memoryos-local`. Built so any LLM application can retain context, preferences, and decisions without shipping user data to someone else's server.
 
 `Python` `Local-First` `PyPI`
 
-<a href="https://github.com/aryan-iconic/MemoryOS"><img src="https://img.shields.io/badge/View_Repository-1A1A1A?style=flat-square" /></a>
-
-</td>
-</tr>
-</table>
+<a href="https://github.com/aryan-iconic/MemoryOS"><img src="https://img.shields.io/badge/View_Repository-12172B?style=flat-square" /></a>
 
 ---
 
 ### 📁 EXHIBIT B — Evidence (Docket Activity)
 
 <div align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=aryan-iconic&show_icons=true&theme=dark&hide_border=true&bg_color=0F0F0F&title_color=E8E8E8&icon_color=9A9A9A&text_color=B0B0B0&ring_color=9A9A9A"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-iconic&layout=compact&theme=dark&hide_border=true&bg_color=0F0F0F&title_color=E8E8E8&text_color=B0B0B0"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=aryan-iconic&show_icons=true&theme=dark&hide_border=true&bg_color=12172B&title_color=FFFFFF&icon_color=6C8CFF&text_color=A9BBFF&ring_color=3457F5"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-iconic&layout=compact&theme=dark&hide_border=true&bg_color=12172B&title_color=FFFFFF&text_color=A9BBFF"/>
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=aryan-iconic&theme=dark&hide_border=true&background=0F0F0F&stroke=1A1A1A&ring=9A9A9A&fire=E8E8E8&currStreakLabel=E8E8E8" />
+<img src="https://streak-stats.demolab.com?user=aryan-iconic&theme=dark&hide_border=true&background=12172B&stroke=1E3A8A&ring=3457F5&fire=6C8CFF&currStreakLabel=FFFFFF" />
 </div>
 
 <div align="center">
@@ -132,11 +138,13 @@ It runs itself after that — nothing to maintain.
 <table align="center">
 <tr><td align="center">
 
-I'd rather ship one real product than demo ten toy ones. Currently splitting my time between shipping <code>CaseSpace</code> for legal professionals in India and open-sourcing <code>MemoryOS</code> for everyone else. If you're working on AI agents, memory systems, or legal-tech — my inbox is open.
+I'd rather ship one real product than demo ten toy ones. Currently building <code>Madhav.ai</code> into the operating layer for legal professionals in India, and open-sourcing <code>MemoryOS</code> for everyone else.
+
+**Open to remote roles and open-source collaboration** — backend/AI engineering, agents, memory systems, or legal-tech. If that's you, my inbox is open.
 
 </td></tr>
 </table>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A1A,100:0F0F0F&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3457F5,50:1E3A8A,100:12172B&height=100&section=footer" width="100%"/>
 </div>

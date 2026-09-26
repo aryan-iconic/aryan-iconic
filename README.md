@@ -60,6 +60,7 @@ My flagship open-source project, built on the side — a local-first, model-agno
 
 `Python` `Local-First` `PyPI`
 
+<a href="https://pypi.org/project/memoryos-local/"><img src="https://img.shields.io/pypi/v/memoryos-local?color=3457F5&label=PyPI&style=flat-square" /></a>
 <a href="https://github.com/aryan-iconic/MemoryOS"><img src="https://img.shields.io/badge/View_Repository-12172B?style=flat-square" /></a>
 
 ---
